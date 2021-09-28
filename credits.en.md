@@ -11,8 +11,8 @@ I think it's worthwhile to give a shout-out to the tools I'm using for this site
 Frameworks and infrastructure:
 * This site was built using [Jekyll](https://jekyllrb.com/), a simple and fast static site generation framework.
 * The code for my site is hosted in a [GitHub repository](https://github.com/thebozzcl/thebozzcl.github.io).
-* Site updates are built using [Travis CI](https://travis-ci.com/) so I could add support for custom plug-ins. Otherwise, you're limited to [these officially supported plug-ins](https://pages.github.com/versions/).
-* This site is hosted using [GitHub Pages](https://pages.github.com/).
+* I'm self-hosting this site on a [Raspberry Pi 4 model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) using [Apache2](https://httpd.apache.org/).
+* I got my certificate from [Let's Encrypt](https://letsencrypt.org/) and using the [EFF's Certbot tool](https://certbot.eff.org/).
 
 Plug-ins and libraries:
 * I'm using a slightly modified version of the default [minima](https://github.com/jekyll/minima) theme.

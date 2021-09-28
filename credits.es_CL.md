@@ -11,8 +11,8 @@ Creo que las herramientas que uso en mi página se merecen un poco de reconocimi
 Frameworks e infraestructura:
 * Este sitio fue construido usando [Jekyll](https://jekyllrb.com/), un framework simple y liviano para generar páginas web estáticas.
 * El código de mi sitio está en un [repositorio de GitHub](https://github.com/thebozzcl/thebozzcl.github.io).
-* Uso [Travis CI](https://travis-ci.com/) para compilar y desplegar actualizaciones a mi sitio, lo que me permite agregar soporte para cualquier plug-in. Si no, estás limitado a escoger dentro de [esta lista](https://pages.github.com/versions/).
-* Este sitio está hosteado usando [GitHub Pages](https://pages.github.com/).
+* Estoy hosteando el sitio usando una [Raspberry Pi 4 modelo B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) corriendo [Apache2](https://httpd.apache.org/).
+* Obtuve el certificado para el sitio de [Let's Encrypt](https://letsencrypt.org/) usando la herramienta [Certbot de la EFF](https://certbot.eff.org/).
 
 Plug-ins y librerías:
 * Estoy usando una versión ligeramente modificada de [minima](https://github.com/jekyll/minima), el tema por defecto de Jekyll.
