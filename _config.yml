@@ -28,9 +28,6 @@ url: "https://www.bozz.cl" # the base hostname & protocol for your site, e.g. ht
 show_excerpts: true
 excerpt_separator: <!--more-->
 
-github_username: thebozzcl
-linkedin_username: rodrigo-bozzolo
-
 # Build settings
 theme: minima
 plugins:
@@ -46,6 +43,9 @@ parallel_localization: true
 
 minima:
   skin: dark
+  social_links:
+    github:  thebozzcl
+    linkedin: rodrigo-bozzolo
 
 sass:
   sourcemap: never
