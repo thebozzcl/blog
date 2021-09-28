@@ -6,8 +6,27 @@ lang: es_CL
 tags: [about]
 ---
 
-¡Hola! Me llamo Rodrigo Bozzolo. Soy un ingeniero industrial chileno. Estoy viviendo en Seattle, trabajando como un desarrollador de software.
+Me llamo Rodrigo Bozzolo, y soy un ingeniero de software chileno. Ahora mismo estoy
+viviendo en Seattle.
 
-Tengo muchos intereses fuera del software. Música, tecnología, matemática, ciencia, ¡y muchos otros temas ñoños! Me gusta escribir sobre todo eso, además de mis reflecciones sobre la vida.
+Estudié Ingenieía Industrial, diploma en Ciencia de la Computación. Eso significa que
+sé un poco sobre administración de empresas, finanzas, administración de cadenas de
+suministros y varios otros tópicos, además de  experticie en software. Me enfoco más
+que nada en el lado de la computación, pero entender todos estos tópicos me ayuda a
+comprender las empresas para las que trabajo.
 
-Como además he tenido ganas de aprender más desarrollo de páginas web, ¡decidí intentar construir mi propia página desde cero!
+Mis prioridades como ingeniero de software son diseñar sistemas escalables con componentes
+reutilizables. Me gusta aplicar esta técnia al procesamiento de datos y workflows, que
+ha comprendido la mayoría de mi experiencia laboral hasta ahora.
+
+Fuera del trabajo, mis intereses incluyen tecnolog�a en general, video juegos, música
+instrumentos musicales y autos.
+
+The purpose of this blog is to be an outlet for my creative and tech endeavors, as well
+as a way to practice my writing skills. I'm very open to feedback, so please feel free
+to post a comment or email me if you got any advice or questions!
+
+Escribo este blog más que nada como una forma de expresar i lado creativo y técnico,
+además de practcar mi habilidad de redacción. Esto más que abierto a consejos y
+críticas ¡así quei iséntanse libres de comentar o mandarme un mensaje si tienen preguntas
+o  consejos!

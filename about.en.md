@@ -6,8 +6,20 @@ lang: en
 tags: [about]
 ---
 
-Hi all! My name's Rodrigo Bozzolo. I'm an industrial engineer from Chile. Right now I'm living in Seattle, working as a software developer.
+I'm Rodrigo Bozzolo, a software engineer from Chile currently living in Seattle.
 
-I have a pretty broad range of interests, outside software development. Music, technology, math, and all sorts of nerdy stuff! I like writing about all of that and the stuff I do, along with reflections on my life and current situations.
+I studied Industrial Engineering with a diploma in Computer Science, which means I 
+know a mix of business management, finance, supply chain management and lots of 
+other fields, along with typical SWE stuff. I mostly focus on the SWE side, but knowing
+about all these topics lets me gain a good understanding of the businesses I work for.
 
-I've been wanting to learn more front-end development, so I decided to try building my own site from scratch!
+My main focuses as a software engineering are designing scalable and complete systems
+with components that promote re-use. I like applying this approach to data processing
+and workflows, which has been most of my work so far.
+
+Outside of work, my interests include (but are not limited to) tech in general, video
+games, music, musical instruments and cars.
+
+The purpose of this blog is to be an outlet for my creative and tech endeavors, as well
+as a way to practice my writing skills. I'm very open to feedback, so please feel free
+to post a comment or email me if you got any advice or questions!
