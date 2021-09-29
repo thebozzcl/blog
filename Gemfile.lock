@@ -81,7 +81,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (>= 3.8.6)
-  jekyll-feed
   jekyll-polyglot
   jekyll-seo-tag
   jekyll-sitemap

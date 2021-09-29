@@ -13,7 +13,6 @@ gem "minima"
 gem "kramdown", ">= 2.3.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed"
   gem "jekyll-polyglot"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
