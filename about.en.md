@@ -13,7 +13,7 @@ know a mix of business management, finance, supply chain management and lots of
 other fields, along with typical SWE stuff. I mostly focus on the SWE side, but knowing
 about all these topics lets me gain a good understanding of the businesses I work for.
 
-My main focuses as a software engineering are designing scalable and complete systems
+My main focuses as a software engineer are designing scalable and complete systems
 with components that promote re-use. I like applying this approach to data processing
 and workflows, which has been most of my work so far.
 
