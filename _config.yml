@@ -21,8 +21,10 @@
 title: The Blogzzolo
 author: Rodrigo Bozzolo (a.k.a. The Bozz)
 email: contact@bozz.cl
+tagline: Rodrigo Bozzolo
 description: > # this means to ignore newlines until "show_excerpts:"
-  Personal blog, filled with random musings and short software tutorials
+  Personal blog about tech, random musings and whatever I have fun writing about.
+  Blog personal sobre tecnologia, temas varios y lo que sea que me de la gana escribir.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.bozz.cl" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
