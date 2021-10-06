@@ -3,7 +3,7 @@ layout: post
 permalink: /posts/2020-03-16-fah-container.html
 title: "Cómo correr Folding@Home con soporte para CUDA en un contenedor de Docker"
 date: 2020-03-16 20:20:00 -0800
-tags: [post, coding, blog]
+tags: [post, coding, folding-at-home, docker, nvidia, cuda]
 lang: es_CL
 ---
 
