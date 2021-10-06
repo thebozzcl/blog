@@ -3,7 +3,7 @@ layout: post
 permalink: /posts/2020-01-26-first-post.html
 title: "¡Primer post, woohoo! Y cómo tener un blog en Jekyll en varios idiomas"
 date: 2020-01-26 21:30:00 -0800
-tags: [post, coding, blog]
+tags: [post, coding, blog, jekyll, polyglot, localization]
 lang: es_CL
 ---
 
