@@ -3,7 +3,7 @@ layout: post
 permalink: /posts/2020-05-19-pihole-wireguard.html
 title: "How to take your Pi-hole anywhere using WireGuard"
 date: 2020-05-19 19:00:00 -0800
-tags: [post, coding, privacy]
+tags: [post, coding, privacy, pi-hole, wireguard, vpn]
 lang: en
 ---
 
