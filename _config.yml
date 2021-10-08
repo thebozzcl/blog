@@ -45,9 +45,9 @@ parallel_localization: true
 
 minima:
   skin: dark
-
-github_username:  thebozzcl
-linkedin_username: rodrigo-bozzolo
+  social_links:
+    github:  thebozzcl
+    linkedin: rodrigo-bozzolo
 
 sass:
   sourcemap: never
