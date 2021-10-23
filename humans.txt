@@ -5,3 +5,10 @@
     GitHub: https://github.com/thebozzcl/
     Contact: contact@bozz.cl
     Location: Seattle, Washington, USA
+/* SÓLO YO */
+    Desarrollador: Rodrigo Bozzolo
+    Sitio: https://www.bozz.cl/
+    LinkedIn: https://www.linkedin.com/in/rodrigo-bozzolo/
+    GitHub: https://github.com/thebozzcl/
+    Contacto: contact@bozz.cl
+    Ubicación: Seattle, Washington, USA
