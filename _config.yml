@@ -41,7 +41,7 @@ plugins:
 languages: ["en", "es_CL"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
-parallel_localization: true
+parallel_localization: false
 
 minima:
   skin: dark
