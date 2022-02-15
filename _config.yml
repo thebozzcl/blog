@@ -1,36 +1,15 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: The Blogzzolo
 author: Rodrigo Bozzolo
 email: contact@bozz.cl
 tagline: Rodrigo Bozzolo
-description: > # this means to ignore newlines until "show_excerpts:"
+description: >
   Personal blog of Rodrigo Bozzolo. I write about tech, random musings and whatever I find fun.
   Blog personal de Rodrigo Bozzolo. Escribo sobre tecnologia, temas varios y lo que sea que me dé la gana.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.bozz.cl" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://www.bozz.cl"
 show_excerpts: true
 excerpt_separator: <!--more-->
 
-# Build settings
 theme: minima
 plugins:
   - jekyll-feed
@@ -56,25 +35,18 @@ sass:
 fastcomments:
   tenantId: "IeX0qIpHi"
 
+# Copied and customized from https://itsgus.dev/2020/jekyll-responsive-images - thanks Gus!
 responsive_image:
-  template: _includes/dynamic-image.html # the name of the template file should match the created template
-  base_path: images/ # update this to match the path to your image folder (default: assets)
-  output_path_format: images/resized/%{width}-%{basename} # the destination path for the resized images; configure to suit your project structure
+  template: _includes/dynamic-image.html
+  base_path: images/
+  output_path_format: images/resized/%{dirname}/%{filename}-%{width}.%{extension}
   sizes:
-    - width: 480  # [Required] How wide the resized image will be.
-      quality: 80 # [Optional] Overrides default_quality for this size. The default is 90
+    - width: 480
+      quality: 80
     - width: 800
     - width: 1400
       quality: 90
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
 exclude:
   - vendor
   - Gemfile
