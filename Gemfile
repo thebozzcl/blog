@@ -16,6 +16,7 @@ group :jekyll_plugins do
   gem "jekyll-polyglot"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
+  gem "jekyll-responsive-image"
 end
 
 gem "rmagick"

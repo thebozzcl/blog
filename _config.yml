@@ -37,6 +37,7 @@ plugins:
   - jekyll-polyglot
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-responsive-image
 
 languages: ["en", "es_CL"]
 default_lang: "en"
@@ -54,6 +55,17 @@ sass:
 
 fastcomments:
   tenantId: "IeX0qIpHi"
+
+responsive_image:
+  template: _includes/dynamic-image.html # the name of the template file should match the created template
+  base_path: images/ # update this to match the path to your image folder (default: assets)
+  output_path_format: images/resized/%{width}-%{basename} # the destination path for the resized images; configure to suit your project structure
+  sizes:
+    - width: 480  # [Required] How wide the resized image will be.
+      quality: 80 # [Optional] Overrides default_quality for this size. The default is 90
+    - width: 800
+    - width: 1400
+      quality: 90
 
 # Exclude from processing.
 # The following items will not be processed, by default.
