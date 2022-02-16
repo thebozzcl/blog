@@ -54,4 +54,4 @@ exclude:
   - LICENSE
   - README.md
   - Rakefile
-  - build.sh
+  - _build.sh
