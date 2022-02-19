@@ -38,8 +38,10 @@ fastcomments:
 # Copied and customized from https://itsgus.dev/2020/jekyll-responsive-images - thanks Gus!
 responsive_image:
   template: _includes/dynamic-image.html
-  base_path: images/
-  output_path_format: images/resized/%{dirname}/%{filename}-%{width}.%{extension}
+#  base_path: images/
+#  output_path_format: images/resized/%{dirname}/%{filename}-%{width}.%{extension}
+  base_path: images # update this to match the path to your image folder (default: assets)
+  output_path_format: images/srcset/%{width}/%{basename} # the destination path for the resized images; configure to suit your project structur
   sizes:
     - width: 480
       quality: 80
