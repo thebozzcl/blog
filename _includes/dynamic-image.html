@@ -4,4 +4,9 @@
 {% endfor %}
 {% endcapture %}
 
-<img src="/{{ path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w">
+<p class="gallery-image">
+    <a href="/{{ path }}" title="{{ title }}">
+        <img src="/{{ path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ original.width }}w" class="img-gallery" />
+        <center>{{ description }}</center>
+    </a>
+</p>

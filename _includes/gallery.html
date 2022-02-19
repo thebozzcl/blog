@@ -1,0 +1,11 @@
+<div class="gallery">
+	{% for image in include.gallery.images %}
+		{% capture path %}{{ include.gallery.base_path }}/{{ image.filename }}{% endcapture %}
+	    {% responsive_image_block %}
+			path: {{ path }}
+			alt: {{ image.title }}
+			title: {{ image.title }}
+			description: {{ image.description }}
+		{% endresponsive_image_block %}
+	{% endfor %}
+</div>
